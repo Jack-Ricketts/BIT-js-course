@@ -1,0 +1,25 @@
+section {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid skyblue;
+}
+
+.cloud {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid skyblue;
+}
+
+#modal {
+    position: absolute;
+    background-color: steelblue;
+    width: 400px;
+    left: 500px;
+    top: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+#modal b {
+    cursor: pointer;
+}
